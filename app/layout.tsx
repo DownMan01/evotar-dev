@@ -6,9 +6,9 @@ import { inter } from "@/lib/fonts"
 export const metadata: Metadata = {
   title: {
     template: "%s | Evotar",
-    default: "Evotar - Blockchain Voting Platform",
+    default: "Evotar - Web-based Voting Platform",
   },
-  description: "A secure and transparent blockchain-based voting platform",
+  description: "A secure and transparent web-based voting platform",
   icons: {
     icon: "/favicon.ico",
   },
